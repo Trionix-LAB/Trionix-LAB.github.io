@@ -3,11 +3,11 @@
 | [www.trionix-lab.ru](https://trionix-lab.ru/) <br/> [info@trionix-lab.ru](mailto:info@trionix-lab.ru) |
 | [EN](README.md) \| [RU](README_RU.md) |
 
-## Support & Social media
+## Техподдержка и соцсети
 <!-- {% include social-media-links.html %} -->
 * Telegram: [@un_drones](https://t.me/un_drones)
 
-## Products documentation
+## Документация
 * [Trionix-6M](https://trionix-lab.ru/project-pers/2/)
 <!-- * [Underwater acoustic modems](underwater_acoustic_modems_en.md)
 * [Underwater Wireless voice systems (Underwater telephone)](underwater_wireless_voice_systems_en.md)
