@@ -1,10 +1,6 @@
 name: Trionix-LAB Documentation site
 description: Trionix-LAB Documentation site
 
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme 
-
 title: docs.trionix-lab.ru
 email: info@trionix-lab.ru
 description: > 
@@ -14,6 +10,8 @@ baseurl: ""
 url: "http://docs.trionix-lab.ru"
 github_username:  trionix-lab
 
-
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 disqus:
