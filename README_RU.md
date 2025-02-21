@@ -6,6 +6,6 @@
 * Telegram: [@un_drones](https://t.me/un_drones)
 
 ## Документация
-* [Trionix-6M](https://trionix-lab.ru/project-pers/2/)
+* [Trionix-6M](/documentation/trionix-6m/trionix-6m_2025.md)
 
 <!-- ## Media, educational project and other things-->
