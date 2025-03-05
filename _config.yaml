@@ -1,7 +1,7 @@
 name: Trionix-LAB Documentation site
 description: Trionix-LAB Documentation site
 
-logo: /documentation/logo_nav.png
+# logo: /documentation/logo_nav.png
 title: docs.trionix-lab.ru
 email: info@trionix-lab.ru
 description: >
@@ -13,8 +13,12 @@ github_username:  trionix-lab
 
 # show_downloads: false
 
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: jekyll/minima
+
 plugins:
 - jekyll-remote-theme 
+
+minima:
+  dark
 
 disqus:
