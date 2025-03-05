@@ -12,13 +12,15 @@ url: "http://docs.trionix-lab.ru"
 github_username:  trionix-lab
 
 # show_downloads: false
-
+theme: minima
 remote_theme: jekyll/minima
 
 plugins:
 - jekyll-remote-theme 
 
 minima:
-  dark
+  skin: dark
+  # nav_pages:
+  # - about.md
 
 disqus:
