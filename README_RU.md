@@ -7,5 +7,6 @@
 
 ## Документация
 * [Trionix-6M](/documentation/trionix-6m/trionix-6m_2025.md)
+* [Trionix](/documentation/trionix_education/trionix.md)
 
 <!-- ## Media, educational project and other things-->
