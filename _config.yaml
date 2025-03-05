@@ -12,7 +12,7 @@ url: "http://docs.trionix-lab.ru"
 github_username:  trionix-lab
 
 # show_downloads: false
-theme: minima
+# theme: minima
 remote_theme: jekyll/minima
 
 plugins:
