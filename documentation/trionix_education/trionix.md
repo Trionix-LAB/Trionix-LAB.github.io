@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trionix
-permalink: /trionix/
+# permalink: /trionix/
 ---
 
 <!-- ## Trionix -->
