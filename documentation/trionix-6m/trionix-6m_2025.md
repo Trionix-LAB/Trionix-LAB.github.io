@@ -1,4 +1,10 @@
-# Trionix-6M 
+---
+layout: page
+title: Trionix-6M
+permalink: /trionix-6M/
+---
+
+<!-- # Trionix-6M  -->
 
 ## ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 

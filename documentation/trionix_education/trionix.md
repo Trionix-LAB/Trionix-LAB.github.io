@@ -1,4 +1,10 @@
-## Trionix
+---
+layout: page
+title: Trionix
+permalink: /trionix/
+---
+
+<!-- ## Trionix -->
 
 > [!CAUTION]
 > Не является действующей инструкцией
