@@ -3,28 +3,23 @@ layout: page
 title: Trionix-6M
 # permalink: /trionix-6M/
 ---
-
+| ![logo](/logo_nav.png) |
+| :---: |
+| [www.trionix-lab.ru](https://trionix-lab.ru/) <br/> [info@trionix-lab.ru](mailto:info@trionix-lab.ru) |
+| [EN](README.md) \| [RU](README_RU.md) |
 <!-- # Trionix-6M  -->
 
 ## ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
 
-> [!CAUTION]
+> [! ВНИМАНИЕ]
 > Не является действующей инструкцией
 
-| ПАРАМЕТР | ЗНАЧЕНИЕ |
-| :--- | :--- |
-| ГАБАРИТЫ (Ф х в)| 41 x 45 мм |
-| ВЕС (сухой) | 0.16 кг |
-| ДЛИНА КАБЕЛЯ (не менее) | 0.3 м |
-| МАКСИМАЛЬНАЯ ДАЛЬНОСТЬ АКУСТИЧЕСКОЙ СВЯЗИ<sup>[1](#footnote1)</sup> | 200 м |
-| ПОЛОСА ЧАСТОТ | 22 .. 29 кГц |
-| ЭНЕРГОПОТРЕБЛЕНИЕ | 0.0055 Вт |
-| НАПРЯЖЕНИЕ ПИТАНИЯ | 5 .. 10 В |
-| ДИАПАЗОН РАБОЧИХ ТЕМПЕРАТУР | 0 .. 30 °С |
-| МАКСИМАЛЬНАЯ ГЛУБИНА ПОГРУЖЕНИЯ | 300 м |
-| ПРОБУЖДЕНИЕ ВНЕШНЕГО ОБОРУДОВАНИЯ | Подача логической единицы длительностью 90 секунд | 
-| ЧИСЛО ВОЗМОЖНЫХ АДРЕСОВ | 64 |
-| НАСТРОЙКА АДРЕСА | по UART, с подключением к надводному блоку пробуждения [F4105-SU](F4105_SU_Specification_ru.md) |
+| ПАРАМЕТР | ЗНАЧЕНИЕ | Третий столбец |
+| :--- | :--- | :--- |
+| 1 | 41 x 45 мм | 4 |
+| 2 | 0.16 кг | 4 |
+| 3 | 0.3 м | 4 |
+| 4 | 4 | 4 |
 
 for build the client app install the following packages
 
@@ -47,7 +42,7 @@ for build the client app install the following packages
 ```
 # Camera
 
-![Screenshot](/documentation/trionix_6m_cam.jpg)
+![Screenshot](/documentation/trionix-6m/trionix_6m_cam.jpg)
 
 ## How to run camera server on RaspberryPi 
 
@@ -64,6 +59,8 @@ cd /home/pi/gst-rtsp-server-1.19.2/build/examples
 ```
 ### Server enviroment configuration guide
 https://docs.google.com/document/d/14aLXrTUmcMpBPiyxBX0RoBi-IZIExmlPnaSNsFlmQGg/edit?usp=sharing
+
+[LINK](https://docs.google.com/document/d/14aLXrTUmcMpBPiyxBX0RoBi-IZIExmlPnaSNsFlmQGg/edit?usp=sharing)
 
 ## Additional commands
 

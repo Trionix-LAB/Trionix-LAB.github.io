@@ -2,11 +2,10 @@ name: Trionix-LAB Documentation site
 description: Trionix-LAB Documentation site
 
 # logo: /documentation/logo_nav.png
-title: Documentation Trionix-LAB
+title: Trionix LAB. Documentation 
 email: info@trionix-lab.ru
 description: >
-  Trionix-LAB site for
-  products documentation
+  Trionix LAB. Documentation
 
 baseurl: "" 
 url: "http://docs.trionix-lab.ru"
