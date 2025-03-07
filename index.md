@@ -4,6 +4,7 @@
 
 ## Support & Social media
 * Telegram: [@un_drones](https://t.me/un_drones)
+* YouTube: [Trionix LAB.](https://youtube.com)
 
 ## Products documentation
 * [Trionix-6M](/documentation/trionix-6m/trionix-6m_2025.md)
