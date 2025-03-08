@@ -1,9 +1,3 @@
----
-layout: page
-title: Телеуправляемый подводный робот "Трионикс"
-# permalink: /trionix-6M/
----
-
 | ![logo](/logo_nav.png) |
 | :---: |
 | [www.trionix-lab.ru](https://trionix-lab.ru/) <br/> [info@trionix-lab.ru](mailto:info@trionix-lab.ru) |
