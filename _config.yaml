@@ -13,14 +13,14 @@ github_username:  trionix-lab
 
 # show_downloads: false
 # theme: minima
-remote_theme: jekyll/minima
+# remote_theme: jekyll
 
-plugins:
-- jekyll-remote-theme 
+# plugins:
+# - jekyll-remote-theme 
 
-minima:
-  skin: dark
-  nav_pages:
-  - index.md
+# minima:
+#   skin: dark
+#   nav_pages:
+#   - index.md
 
 disqus:
