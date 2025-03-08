@@ -12,10 +12,10 @@
 The Trionix LAB. Docs section is currently under construction. If you have come here by accident, please wait for the official opening of the section, which will take place on 03/15/2025.
 
 ### Documentation
-* [Educational kits](/documentation/kids/index.md)
-* [Professional vehicles](/documentation/prof/index.md)
+* [Educational kits](/documentation/kids/kids.md)
+* [Professional vehicles](/documentation/prof/prof.md)
 
 ### Training courses
-* [Introductory course on underwater robotics](/documentation/school/begin/index.md)
-* [Methodological materials for teachers](/documentation/school/teachers/index.md)
-* [Additional lessons](/documentation/lessons/index.md)
+* [Introductory course on underwater robotics](/documentation/school/begin/begin.md)
+* [Methodological materials for teachers](/documentation/school/teachers/teachers.md)
+* [Additional lessons](/documentation/lessons/lessons.md)
