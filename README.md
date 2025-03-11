@@ -12,7 +12,10 @@
 The Trionix LAB. Docs section is currently under construction. If you have come here by accident, please wait for the official opening of the section, which will take place on 03/15/2025.
 
 ### Documentation
-* [Образовательные наборы](/documentation/kids/kids_RU.md)
-* [Образовательные наборы](/documentation/RU/projects/kids_RU.md)
-* [Образовательные наборы](/documentation/kids/guppy_RU.md)
-* [Профессиональные аппараты](/documentation/RU/projects/trionix_RU.md)
+* [Educational kits](/documentation/kids/kids.md)
+* [Professional vehicles](/documentation/prof/prof.md)
+
+### Training courses
+* [Introductory course on underwater robotics](/documentation/school/begin/begin.md)
+* [Methodological materials for teachers](/documentation/school/teachers/teachers.md)
+* [Additional lessons](/documentation/lessons/lessons.md)
