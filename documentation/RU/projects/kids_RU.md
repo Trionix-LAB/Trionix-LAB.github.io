@@ -14,6 +14,6 @@
 ### Документация
 <!-- * [Образовательные наборы](/documentation/kids/kids_RU.md) -->
 * [Образовательные наборы](/documentation/kids/trionix_RU.md)
-* [Образовательные наборы](/documentation/projects/trionix_RU.md)
+* [Образовательные наборы](/documentation/RU/projects/trionix_RU.md)
 * [Профессиональные аппараты](/documentation/kids/kids_RU.md)
 

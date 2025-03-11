@@ -13,7 +13,7 @@
 
 ### Документация
 * [Образовательные наборы](/documentation/kids/kids_RU.md)
-* [Образовательные наборы](/documentation/projects/kids_RU.md)
+* [Образовательные наборы](/documentation/RU/projects/kids_RU.md)
 * [Образовательные наборы](/documentation/kids/guppy_RU.md)
 * [Профессиональные аппараты](/documentation/prof/prof_RU.md)
 
