@@ -4,7 +4,17 @@
 | [www.trionix-lab.ru](https://trionix-lab.ru/) <br/> [info@trionix-lab.ru](mailto:info@trionix-lab.ru) |
 | [EN](/README.md) \| [RU](/README_RU.md) |
 
-[Главная](/README_RU.md) / [Образовательные наборы](/documentation/RU/kids/kids_RU.md) / Автономный подводный робот "Гуппи"
+[Главная](/README_RU.md) / Документация "Образовательные наборы"
 
-### Автономный подводный робот "Гуппи"
-В разработке.
+# Guppy
+Project_data in this file
+
+### Подводные роботы
+* [Телеуправляемый подводный робот "Трионикс"](/documentation/RU/kids/trionix_RU.md)
+* [Автономный подводный робот "Гуппи"](/documentation/RU/kids/guppy_RU.md)
+
+### Наземные роботы
+* [Гусеничный робот "Жук"](/documentation/RU/kids/juke_RU.md)
+
+### Другое оборудование
+* [Конструктор "Макет отсека судна"](/documentation/RU/kids/compartment_RU.md)
