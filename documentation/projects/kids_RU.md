@@ -12,8 +12,8 @@
 Раздел Trionix LAB. Docs находится в процессе формирования. Если Вы попали сюда случайно, то просим дождаться официального открытия раздела, которое состоится 15.03.2025.
 
 ### Документация
-* [Образовательные наборы](/documentation/kids/kids_RU.md)
-* [Образовательные наборы](/documentation/projects/kids_RU.md)
-* [Образовательные наборы](/documentation/kids/guppy_RU.md)
-* [Профессиональные аппараты](/documentation/prof/prof_RU.md)
+<!-- * [Образовательные наборы](/documentation/kids/kids_RU.md) -->
+* [Образовательные наборы](/documentation/kids/trionix_RU.md)
+* [Образовательные наборы](/documentation/projects/trionix_RU.md)
+* [Профессиональные аппараты](/documentation/kids/kids_RU.md)
 
